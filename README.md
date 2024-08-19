@@ -10,9 +10,9 @@
 
 > *tailwindcss | nodejs | nestjs | postgresql | sveltekit | mongodb*
 
-<div align="center">
+
 [![My Skills](https://skillicons.dev/icons?i=tailwindcss,ts,nestjs,svelte,postgresql,mongodb)](https://skillicons.dev)
-</div>
+
 
 
 
