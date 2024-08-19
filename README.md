@@ -18,6 +18,6 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
 </div>
 
-![](720ptwitter.mp4)
+[![video1](video.png)](720ptwitter.mp4)
 
 ---
