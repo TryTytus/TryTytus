@@ -22,6 +22,11 @@ https://github.com/user-attachments/assets/a1fb5b87-d15f-469c-92d2-0e8baa3833a9
 ---
 
 ## Vivi (video streaming platform)
-> * laravel | vuejs | meilisearch | nginx | mysql*
+> *laravel | vuejs | meilisearch | nginx | mysql*
 
 [![My Skills](https://skillicons.dev/icons?i=laravel,vuejs,nginx,mysql)](https://skillicons.dev)
+
+
+
+https://github.com/user-attachments/assets/bca21353-3f6a-4cba-adc6-89b3d2187c96
+
