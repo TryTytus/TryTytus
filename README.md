@@ -8,10 +8,10 @@
 
 ### Tech stack:
 
-> *tailwindcss | nodejs | nestjs | postgresql | sveltekit | mongodb | meilisearch*
+> *tailwindcss | nodejs | nestjs | postgresql | sveltekit | mongodb | meilisearch | docker*
 
 
-[![My Skills](https://skillicons.dev/icons?i=tailwindcss,ts,nestjs,svelte,postgresql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwindcss,ts,nestjs,svelte,postgresql,mongodb,docker)](https://skillicons.dev)
 
 
 
@@ -22,9 +22,9 @@ https://github.com/user-attachments/assets/a1fb5b87-d15f-469c-92d2-0e8baa3833a9
 ---
 
 ## Vivi (video streaming platform)
-> *laravel | php | vuejs | meilisearch | nginx | mysql*
+> *laravel | php | vuejs | meilisearch | nginx | mysql | docker*
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,php,vuejs,nginx,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,php,vuejs,nginx,mysql,docker)](https://skillicons.dev)
 
 
 
